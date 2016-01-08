@@ -4,8 +4,20 @@
     <meta charset="UTF-8">
     <title>Book a Tour</title>
     <link href="../mainStyle.css" type="text/css" rel="stylesheet" />
+
+    <script src="../calendar/jquery-1.6.2.min.js"></script>
+    <script src="../calendar/jquery-ui-1.8.15.custom.min.js"></script>
+    <link rel="stylesheet" href="../calendar/jqueryCalendar.css">
+    <script>
+        jQuery(function() {
+            jQuery( "#calendar" ).datepicker();
+        });
+    </script>
+
+
 </head>
 <body>
+
     <img src="../images/africa.jpg" id="africa">
     <img src="../images/lgo.png" id="logo">
     <h1>Shongololo <br/> Tours </h1>
@@ -46,7 +58,7 @@
         <div5>
             <p>
                 Day: <br/>
-                <input type="text" name="day" /> <br/> <br/>
+                <input type="text" id="calendar"> <br/> <br/>
                 Comments: <br/>
                 <textarea name="comment" rows="5" cols="40"> </textarea> <br/> <br/>
             </p>
@@ -63,6 +75,10 @@
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3462.9094292875648!2d31.035409314893787!3d-29.78026032599891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef706590a50ff19%3A0xeaa1e7062c39319f!2s180+Kenneth+Kaunda+Rd%2C+Durban+North%2C+4051!5e0!3m2!1sen!2sza!4v1452293717524" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>
         </iframe>
     </div>
+
+
+
+
 
 </body>
 </html>
