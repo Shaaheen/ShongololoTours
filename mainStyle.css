@@ -1,0 +1,30 @@
+body{
+    background-color: #ffe71e;
+    top: 0vw;
+    margin: 0vw;
+    padding: 0vw;
+}
+h1{
+    position: relative;
+    text-align: center;
+    font-size: 4vw;
+    top: 0vw;
+    margin: 0vw;
+    padding: 0vw;
+}
+#africa{
+    float: right;
+    width: 50vw;
+    height: 25vw;
+    padding-top: 1vw;
+    margin: 0vw;
+    padding-right: 8vw;
+}
+#logo{
+    width: 10vw;
+    height: 10vw;
+    padding-left: 14vw;
+    padding-top: 3vw;
+    padding-bottom: 0vw;
+}
+
