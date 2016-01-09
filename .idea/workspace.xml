@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c7c5b74-218e-4211-9d17-b43dad386275" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/booking/booking.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/booking/booking.html" afterPath="$PROJECT_DIR$/booking/booking.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/booking/booking.php" afterPath="$PROJECT_DIR$/booking/booking.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ShongololiTours.iws" />
@@ -28,50 +28,73 @@
     <favorites_list name="ShongololiTours" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainStyle.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mainStyle.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="638" max-vertical-offset="2567">
-              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="booking.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/booking/booking.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="27.846153" vertical-offset="928" max-vertical-offset="1513">
-              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="booking.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/booking/booking.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5482662">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
+                  <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mainStyle.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mainStyle.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="638" max-vertical-offset="2567">
+                  <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="booking.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/booking/booking.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.47692308" vertical-offset="690" max-vertical-offset="1581">
+                  <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+                  <folding>
+                    <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="booking.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/booking/booking.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-11.230769" vertical-offset="14" max-vertical-offset="1326">
+                  <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#6#90#0#PHP" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="booking.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/booking/booking.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.24957265" vertical-offset="741" max-vertical-offset="1326">
+                  <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+                  <folding>
+                    <element signature="e#6#90#0#PHP" expanded="true" />
+                    <marker date="1452298152087" expanded="true" signature="763:911" placeholder="INSERT INTO ..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,8 +105,9 @@
         <option value="$PROJECT_DIR$/../ShongololiTours/index.html" />
         <option value="$PROJECT_DIR$/mainStyle.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/booking/booking.html" />
         <option value="$PROJECT_DIR$/calendar/jqueryCalendar.css" />
+        <option value="$PROJECT_DIR$/booking/booking.html" />
+        <option value="$PROJECT_DIR$/booking/booking.php" />
       </list>
     </option>
   </component>
@@ -271,7 +295,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452294612558</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added a Calendar date picker for the date input option">
+      <created>1452297181170</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1452297181170</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -319,7 +349,8 @@
     <MESSAGE value="Added a stylesheet and headings with links" />
     <MESSAGE value="Added a css hover effect for links" />
     <MESSAGE value="Created a booking page with an html form (no backend yet)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a booking page with an html form (no backend yet)" />
+    <MESSAGE value="Added a Calendar date picker for the date input option" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a Calendar date picker for the date input option" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -366,21 +397,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/booking/booking.html">
+    <entry file="file://$PROJECT_DIR$/booking/booking.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="27.846153" vertical-offset="928" max-vertical-offset="1513">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        <state vertical-scroll-proportion="-11.230769" vertical-offset="14" max-vertical-offset="1326">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6#90#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/booking/booking.php">
+    <entry file="file://$PROJECT_DIR$/booking/booking.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.47692308" vertical-offset="690" max-vertical-offset="1581">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
